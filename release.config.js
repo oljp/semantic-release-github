@@ -25,6 +25,6 @@ module.exports = {
         }
       }
     ],
-    '@semantic-relase/git
+    '@semantic-relase/git'
   ]
 };
